@@ -1,0 +1,24 @@
+silktouch-spawner:
+  # Enable or disable the silk touch spawner functionality
+  enabled: true
+  
+  # Require permission to use silk touch on spawners
+  require-permission: false
+  
+  # Permission needed if require-permission is true
+  permission: "simplesilkspawner.pickup"
+  
+  # Chance to successfully pick up a spawner (0.0 to 1.0, where 1.0 is 100%)
+  pickup-chance: 1.0
+  
+  # Extra durability damage to the pickaxe when mining a spawner (0 for no extra damage)
+  extra-durability-damage: 2
+  
+  # Economy settings
+  economy:
+    # Enable or disable economy cost for silk touching spawners
+    enabled: false
+    # Cost to pick up a spawner with silk touch
+    cost: 1000
+    # Message shown when player doesn't have enough money
+    message: "&cYou need {cost} to mine this spawner with Silk Touch."

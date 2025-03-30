@@ -1,0 +1,32 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.204.205.157
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743262707587
+  login: 1743369050248
+  kits:
+    dtools: 1743369517047
+money: '0'
+last-account-name: NunDRK
+logoutlocation:
+  world: 744f9bbf-1500-4808-8fe4-6734dd768f3b
+  world-name: world
+  x: -30.931391626058982
+  y: 80.0
+  z: -284.11502780925645
+  yaw: 177.44970703125
+  pitch: 13.200000762939453
