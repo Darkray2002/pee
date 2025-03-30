@@ -153,3 +153,22 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [21:18:37] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /broadcast NunDRK just got some fancy tools!
 [21:18:46] [Server thread/INFO]: NunDRK issued server command: /gamemode creative
 [21:18:56] [Server thread/INFO]: NunDRK issued server command: /kits
+[21:19:15] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.kits
+[21:19:16] [Server thread/INFO]: NunDRK issued server command: /luckperms group default permission set essentials.kit
+[21:19:16] [luckperms-command-executor/INFO]: [LP] LOG > (NunDRK) [G] (default)
+[21:19:16] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.kit true
+[21:19:19] [Server thread/INFO]: NunDRK issued server command: /gamemode survival
+[21:19:22] [Server thread/INFO]: NunDRK issued server command: /deop NunDRK
+[21:19:22] [Server thread/INFO]: [NunDRK: Made NunDRK no longer a server operator]
+[21:19:24] [Server thread/INFO]: NunDRK issued server command: /kits
+[21:19:27] [Server thread/INFO]: NunDRK issued server command: /kits tools
+[21:19:40] [luckperms-command-executor/INFO]: [LP] Set essentials.kit.tools to true for default in context global.
+[21:19:44] [Server thread/INFO]: NunDRK issued server command: /kits tools
+[21:19:59] [Server thread/INFO]: NunDRK has made the advancement [Getting an Upgrade]
+[21:22:42] [Server thread/INFO]: Made NunDRK a server operator
+[21:23:00] [Server thread/INFO]: NunDRK issued server command: /gamerule playersSleepingPercentage 1
+[21:23:00] [Server thread/INFO]: [NunDRK: Gamerule playersSleepingPercentage is now set to: 1]
+[21:23:24] [Server thread/INFO]: NunDRK issued server command: /deop NunDRK
+[21:23:24] [Server thread/INFO]: [NunDRK: Made NunDRK no longer a server operator]
+[21:24:57] [Server thread/INFO]: NunDRK has made the advancement [Monster Hunter]
+[21:26:34] [Server thread/INFO]: NunDRK has made the advancement [Sweet Dreams]
