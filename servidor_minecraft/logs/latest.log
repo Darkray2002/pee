@@ -126,3 +126,8 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [02:09:52] [User Authenticator #0/INFO]: UUID of player NunDRK is 15ff9384-b122-363e-b25a-3940a2e85d8f
 [02:09:53] [Server thread/INFO]: NunDRK joined the game
 [02:09:54] [Server thread/INFO]: NunDRK[/127.204.205.157:53027] logged in with entity id 18 at ([world]-2981.834234020115, 63.0, 2734.6545430603715)
+[02:26:34] [Server thread/INFO]: Made NunDRK a server operator
+[02:26:50] [Server thread/INFO]: NunDRK issued server command: /gamemode creative
+[02:27:17] [Server thread/INFO]: NunDRK issued server command: /gamemode survival
+[02:27:20] [Server thread/INFO]: NunDRK issued server command: /deop NunDRK
+[02:27:20] [Server thread/INFO]: [NunDRK: Made NunDRK no longer a server operator]
