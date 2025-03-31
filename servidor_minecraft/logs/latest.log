@@ -131,3 +131,38 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [02:27:17] [Server thread/INFO]: NunDRK issued server command: /gamemode survival
 [02:27:20] [Server thread/INFO]: NunDRK issued server command: /deop NunDRK
 [02:27:20] [Server thread/INFO]: [NunDRK: Made NunDRK no longer a server operator]
+[02:29:42] [Server thread/INFO]: NunDRK lost connection: Disconnected
+[02:29:42] [Server thread/INFO]: NunDRK left the game
+[02:29:47] [Server thread/INFO]: Stopping the server
+[02:29:47] [Server thread/INFO]: Stopping server
+[02:29:47] [Server thread/INFO]: [SimpleSilkSpawner] Disabling SimpleSilkSpawner v1.02
+[02:29:47] [Server thread/INFO]: [SimpleSilkSpawner] SimpleSilkSpawner has been disabled!
+[02:29:47] [Server thread/INFO]: [GSit] Disabling GSit v2.2.1
+[02:29:47] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
+[02:29:47] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
+[02:29:47] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0
+[02:29:47] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.158
+[02:29:47] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[02:29:47] [Server thread/INFO]: [LuckPerms] Closing storage...
+[02:29:47] [Server thread/INFO]: [LuckPerms] Goodbye!
+[02:29:47] [Server thread/INFO]: Saving players
+[02:29:47] [Server thread/INFO]: Saving worlds
+[02:29:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:29:47] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[02:29:47] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[02:29:47] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[02:29:47] [Server thread/INFO]: [ChunkHolderManager] Saved 546 block chunks, 208 entity chunks, 2 poi chunks in world 'world' in 0.41s
+[02:29:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:29:47] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[02:29:47] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[02:29:47] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[02:29:47] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 3 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[02:29:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:29:47] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[02:29:47] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[02:29:47] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[02:29:47] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[02:29:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:29:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:29:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:29:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1743371782447
+  logout: 1743388182435
   login: 1743386994237
   kits:
     dtools: 1743369517047
@@ -25,11 +25,11 @@ last-account-name: NunDRK
 logoutlocation:
   world: 744f9bbf-1500-4808-8fe4-6734dd768f3b
   world-name: world
-  x: -2981.834234020115
-  y: 63.0
-  z: 2734.6545430603715
-  yaw: 14.110137939453125
-  pitch: 17.39954376220703
+  x: -2995.479487614081
+  y: 64.0
+  z: 2743.4187470609468
+  yaw: 24.45623779296875
+  pitch: 3.29988956451416
 lastlocation:
   world: 744f9bbf-1500-4808-8fe4-6734dd768f3b
   world-name: world
