@@ -240,3 +240,6 @@
 [01:28:32] [Server thread/INFO]: NunDRK[/127.204.197.33:38039] logged in with entity id 1228 at ([world]131.4881301119693, 78.0, 3.699999988079071)
 [01:30:34] [Server thread/INFO]: NunDRK lost connection: Disconnected
 [01:30:34] [Server thread/INFO]: NunDRK left the game
+[01:43:56] [User Authenticator #3/INFO]: UUID of player DenverAnd is 9d10d3c8-43de-3e13-8d24-1bca64cbcfa2
+[01:43:56] [Server thread/INFO]: DenverAnd joined the game
+[01:43:56] [Server thread/INFO]: DenverAnd[/127.202.176.99:56381] logged in with entity id 1523 at ([world]138.5, 70.0, 25.5)
