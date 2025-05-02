@@ -235,3 +235,8 @@
 [01:20:40] [Server thread/INFO]: enzoeee[/127.102.238.46:39597] logged in with entity id 923 at ([world]127.5, 72.0, 11.5)
 [01:22:31] [Server thread/INFO]: enzoeee lost connection: Disconnected
 [01:22:31] [Server thread/INFO]: enzoeee left the game
+[01:28:32] [User Authenticator #2/INFO]: UUID of player NunDRK is 15ff9384-b122-363e-b25a-3940a2e85d8f
+[01:28:32] [Server thread/INFO]: NunDRK joined the game
+[01:28:32] [Server thread/INFO]: NunDRK[/127.204.197.33:38039] logged in with entity id 1228 at ([world]131.4881301119693, 78.0, 3.699999988079071)
+[01:30:34] [Server thread/INFO]: NunDRK lost connection: Disconnected
+[01:30:34] [Server thread/INFO]: NunDRK left the game
